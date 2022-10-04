@@ -1,0 +1,13 @@
+Q1: Qual a quantidade total de estudantes cadastrada no banco?
+
+Q2: Quais o cursos que os estudantes estão cadastrados?
+
+Q3: Qual a quantidade de turmas que cada facilitador está alocado?
+
+Q4: Quais cursos com mais turmas criadas ao longo do último ano?
+
+Q5: Qual a avaliação média de cada professor?
+
+Q6: Qual a avaliação média de cada curso e a respectiva categorização com mais ocorrência?
+
+Q7: Qual a quantidade de professores ativos, alocados e disponíveis por curso?
